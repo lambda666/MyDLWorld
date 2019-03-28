@@ -1,2 +1,2 @@
 # MyDLWorld
-DL个人笔记
+我的DL学习笔记与思考
